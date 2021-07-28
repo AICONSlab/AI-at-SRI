@@ -6,3 +6,5 @@ AI/ML career & employement opportunities at Sunnybrook Research Institute
 - [Postdoctoral Fellow in Advanced Computational Neuroimaging Analyses](https://sunnybrook.ca/employment/position.asp?c=16&id=9530&page=34014)
 - [Postdoctoral Fellow in Physical Sciences](https://sunnybrook.ca/employment/position.asp?c=16&id=10134&page=34014)
 - [Research AI Developer](https://sunnybrook.ca/employment/position.asp?c=16&id=10132&page=34014)
+- MSc/PhD students for projects focused on AI in neuroscience/neuroimaing @ [Goubran lab](https://medbio.utoronto.ca/faculty/goubran). contact: maged.goubran@utoronto.ca  
+- Post-doc for a project focused on AI in oncology/digial pathology @ [Martel lab](https://medbio.utoronto.ca/faculty/martel). contact: a.martel@utoronto.ca
